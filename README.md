@@ -1,4 +1,4 @@
-# Backbone.Validation v0.8.0
+# Backbone.Validation v0.8.1
 
 A validation plugin for [Backbone.js](http://documentcloud.github.com/backbone) that validates both your model as well as form input.
 
